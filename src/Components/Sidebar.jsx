@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import logo from "../assets/logo.svg";
 import leftArrow from "../assets/LeftArrow.svg";
-import List from "./list";
+import List from "./List";
 import MenuList from "../constants/MenuList";
 import { AddSquare, LampOn } from "iconsax-react";
 
